@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.postBtn {
+    text-align: right;
+    margin-top: 2%;
+    margin-right: 30%;
+    margin-left: 30%;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    font-size: x-large;
+    background-image: url("images/fireRight.png");
+    background-size: 30%;
+    background-repeat: no-repeat;
+}
+
+a {
+    padding: 5%;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: url("./images/flying\ v.cur"), auto;
+}
