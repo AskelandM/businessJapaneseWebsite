@@ -24,5 +24,5 @@ a {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    cursor: url("./images/flying\ v.cur"), auto;
+    /* cursor: url("./images/flying\ v.cur"), auto; */
 }

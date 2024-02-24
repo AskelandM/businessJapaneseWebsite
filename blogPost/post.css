@@ -36,7 +36,7 @@ a {
     color: rgb(255, 81, 81);
     font-weight: bold;
     text-decoration: none;
-    cursor: url("../images/flying\ v.cur"), auto;
+    /* cursor: url("../images/flying\ v.cur"), auto; */
 }
 
 table {
